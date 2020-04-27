@@ -1,0 +1,4996 @@
+[
+    {
+        "name": "accept",
+        "a": "動詞",
+        "description": "受諾する"
+    },
+    {
+        "name": "access",
+        "a": "動詞／名詞",
+        "description": "アクセスする／アクセス"
+    },
+    {
+        "name": "account",
+        "a": "名詞",
+        "description": "アカウント、口座"
+    },
+    {
+        "name": "algorithm",
+        "a": "名詞",
+        "description": "アルゴリズム"
+    },
+    {
+        "name": "allow",
+        "a": "動詞",
+        "description": "可能にする、許可する"
+    },
+    {
+        "name": "alternative",
+        "a": "形容詞",
+        "description": "代替の"
+    },
+    {
+        "name": "application",
+        "a": "名詞",
+        "description": "アプリケーション"
+    },
+    {
+        "name": "apply",
+        "a": "動詞",
+        "description": "適用する"
+    },
+    {
+        "name": "argument",
+        "a": "名詞",
+        "description": "引数"
+    },
+    {
+        "name": "array",
+        "a": "名詞",
+        "description": "配列"
+    },
+    {
+        "name": "attribute",
+        "a": "名詞",
+        "description": "属性"
+    },
+    {
+        "name": "audio",
+        "a": "名詞",
+        "description": "オーディオ、音声"
+    },
+    {
+        "name": "author",
+        "a": "名詞",
+        "description": "作成者"
+    },
+    {
+        "name": "available",
+        "a": "形容詞",
+        "description": "利用可能な、入手可能な"
+    },
+    {
+        "name": "avoid",
+        "a": "動詞",
+        "description": "回避する"
+    },
+    {
+        "name": "backup",
+        "a": "名詞",
+        "description": "バックアップ"
+    },
+    {
+        "name": "base",
+        "a": "形容詞／動詞",
+        "description": "ベースの、基底の／〜に基づく（based onで）"
+    },
+    {
+        "name": "bit",
+        "a": "名詞",
+        "description": "ビット"
+    },
+    {
+        "name": "blank",
+        "a": "形容詞",
+        "description": "空白の"
+    },
+    {
+        "name": "block",
+        "a": "名詞／動詞",
+        "description": "ブロック／ブロックする"
+    },
+    {
+        "name": "boolean",
+        "a": "形容詞",
+        "description": "ブール値の"
+    },
+    {
+        "name": "branch",
+        "a": "名詞",
+        "description": "ブランチ、分岐"
+    },
+    {
+        "name": "browser",
+        "a": "名詞",
+        "description": "ブラウザー"
+    },
+    {
+        "name": "bug",
+        "a": "名詞",
+        "description": "バグ"
+    },
+    {
+        "name": "byte",
+        "a": "名詞",
+        "description": "バイト"
+    },
+    {
+        "name": "cache",
+        "a": "名詞",
+        "description": "キャッシュ"
+    },
+    {
+        "name": "cancel",
+        "a": "動詞",
+        "description": "キャンセルする、取り消す"
+    },
+    {
+        "name": "capacity",
+        "a": "名詞",
+        "description": "容量"
+    },
+    {
+        "name": "case",
+        "a": "名詞",
+        "description": "場合、ケース"
+    },
+    {
+        "name": "character",
+        "a": "名詞",
+        "description": "文字"
+    },
+    {
+        "name": "checkbox",
+        "a": "名詞",
+        "description": "チェックボックス"
+    },
+    {
+        "name": "choice",
+        "a": "名詞",
+        "description": "選択"
+    },
+    {
+        "name": "clear",
+        "a": "動詞",
+        "description": "消去する"
+    },
+    {
+        "name": "click",
+        "a": "動詞",
+        "description": "クリックする"
+    },
+    {
+        "name": "client",
+        "a": "名詞",
+        "description": "クライアント"
+    },
+    {
+        "name": "clipboard",
+        "a": "名詞",
+        "description": "クリップボード"
+    },
+    {
+        "name": "cloud",
+        "a": "名詞",
+        "description": "クラウド"
+    },
+    {
+        "name": "cluster",
+        "a": "名詞",
+        "description": "クラスター"
+    },
+    {
+        "name": "code",
+        "a": "名詞",
+        "description": "コード"
+    },
+    {
+        "name": "collection",
+        "a": "名詞",
+        "description": "コレクション、収集"
+    },
+    {
+        "name": "column",
+        "a": "名詞",
+        "description": "列、カラム"
+    },
+    {
+        "name": "command",
+        "a": "名詞",
+        "description": "コマンド、命令"
+    },
+    {
+        "name": "comment",
+        "a": "名詞",
+        "description": "コメント"
+    },
+    {
+        "name": "commit",
+        "a": "動詞",
+        "description": "コミットする、（処理などを）確定する"
+    },
+    {
+        "name": "communication",
+        "a": "名詞",
+        "description": "通信、コミュニケーション"
+    },
+    {
+        "name": "component",
+        "a": "名詞",
+        "description": "コンポーネント、部品"
+    },
+    {
+        "name": "condition",
+        "a": "名詞",
+        "description": "条件"
+    },
+    {
+        "name": "configuration",
+        "a": "名詞",
+        "description": "構成"
+    },
+    {
+        "name": "connect",
+        "a": "動詞",
+        "description": "接続する"
+    },
+    {
+        "name": "connection",
+        "a": "名詞",
+        "description": "接続"
+    },
+    {
+        "name": "console",
+        "a": "名詞",
+        "description": "コンソール"
+    },
+    {
+        "name": "constant",
+        "a": "名詞／形容詞",
+        "description": "定数／一定の"
+    },
+    {
+        "name": "constructor",
+        "a": "名詞",
+        "description": "コンストラクター"
+    },
+    {
+        "name": "contain",
+        "a": "動詞",
+        "description": "含む"
+    },
+    {
+        "name": "container",
+        "a": "名詞",
+        "description": "コンテナー"
+    },
+    {
+        "name": "content",
+        "a": "名詞",
+        "description": "内容、コンテンツ"
+    },
+    {
+        "name": "context",
+        "a": "名詞",
+        "description": "コンテキスト、文脈"
+    },
+    {
+        "name": "continue",
+        "a": "動詞",
+        "description": "続行する"
+    },
+    {
+        "name": "control",
+        "a": "名詞／動詞",
+        "description": "制御、コントロール／制御する"
+    },
+    {
+        "name": "cookie",
+        "a": "名詞",
+        "description": "クッキー"
+    },
+    {
+        "name": "core",
+        "a": "名詞／形容詞",
+        "description": "コア／最重要の"
+    },
+    {
+        "name": "correctly",
+        "a": "副詞",
+        "description": "正しく、正常に"
+    },
+    {
+        "name": "count",
+        "a": "動詞／名詞",
+        "description": "数える／回数、数"
+    },
+    {
+        "name": "current",
+        "a": "形容詞",
+        "description": "現在の"
+    },
+    {
+        "name": "cursor",
+        "a": "名詞",
+        "description": "カーソル"
+    },
+    {
+        "name": "custom",
+        "a": "形容詞",
+        "description": "カスタムの、ユーザー設定の"
+    },
+    {
+        "name": "customize",
+        "a": "動詞",
+        "description": "カスタマイズする"
+    },
+    {
+        "name": "damage",
+        "a": "名詞",
+        "description": "損害、ダメージ"
+    },
+    {
+        "name": "dashboard",
+        "a": "名詞",
+        "description": "ダッシュボード"
+    },
+    {
+        "name": "data",
+        "a": "名詞",
+        "description": "データ"
+    },
+    {
+        "name": "database",
+        "a": "名詞",
+        "description": "データベース"
+    },
+    {
+        "name": "debug",
+        "a": "動詞／名詞",
+        "description": "デバッグする／デバッグ"
+    },
+    {
+        "name": "default",
+        "a": "名詞／動詞",
+        "description": "デフォルト値、既定値／デフォルトで〜になる"
+    },
+    {
+        "name": "define",
+        "a": "動詞",
+        "description": "定義する"
+    },
+    {
+        "name": "delete",
+        "a": "動詞",
+        "description": "削除する"
+    },
+    {
+        "name": "destroy",
+        "a": "動詞",
+        "description": "破棄する"
+    },
+    {
+        "name": "determine",
+        "a": "動詞",
+        "description": "判別する、決定する"
+    },
+    {
+        "name": "developer",
+        "a": "名詞",
+        "description": "開発者"
+    },
+    {
+        "name": "development",
+        "a": "名詞",
+        "description": "開発"
+    },
+    {
+        "name": "device",
+        "a": "名詞",
+        "description": "機器、デバイス"
+    },
+    {
+        "name": "dialog",
+        "a": "名詞",
+        "description": "ダイアログ"
+    },
+    {
+        "name": "directory",
+        "a": "名詞",
+        "description": "ディレクトリー"
+    },
+    {
+        "name": "disk",
+        "a": "名詞",
+        "description": "ディスク"
+    },
+    {
+        "name": "document",
+        "a": "名詞／動詞",
+        "description": "ドキュメント、文書／（文書で）記録する"
+    },
+    {
+        "name": "documentation",
+        "a": "名詞",
+        "description": "ドキュメント、資料"
+    },
+    {
+        "name": "domain",
+        "a": "名詞",
+        "description": "ドメイン"
+    },
+    {
+        "name": "download",
+        "a": "動詞",
+        "description": "ダウンロードする"
+    },
+    {
+        "name": "driver",
+        "a": "名詞",
+        "description": "ドライバー"
+    },
+    {
+        "name": "drop-down",
+        "a": "形容詞",
+        "description": "ドロップダウンの"
+    },
+    {
+        "name": "edit",
+        "a": "動詞",
+        "description": "編集する"
+    },
+    {
+        "name": "editor",
+        "a": "名詞",
+        "description": "エディター"
+    },
+    {
+        "name": "element",
+        "a": "名詞",
+        "description": "要素"
+    },
+    {
+        "name": "empty",
+        "a": "形容詞",
+        "description": "空の"
+    },
+    {
+        "name": "enter",
+        "a": "動詞",
+        "description": "入力する"
+    },
+    {
+        "name": "entry",
+        "a": "名詞",
+        "description": "エントリー、入力"
+    },
+    {
+        "name": "environment",
+        "a": "名詞",
+        "description": "環境"
+    },
+    {
+        "name": "equal",
+        "a": "形容詞／動詞",
+        "description": "等しい／〜に等しい"
+    },
+    {
+        "name": "error",
+        "a": "名詞",
+        "description": "エラー"
+    },
+    {
+        "name": "except",
+        "a": "前置詞",
+        "description": "〜を除く"
+    },
+    {
+        "name": "exception",
+        "a": "名詞",
+        "description": "例外"
+    },
+    {
+        "name": "exist",
+        "a": "動詞",
+        "description": "存在する"
+    },
+    {
+        "name": "exit",
+        "a": "動詞",
+        "description": "終了する"
+    },
+    {
+        "name": "expand",
+        "a": "動詞",
+        "description": "拡大する、展開する"
+    },
+    {
+        "name": "expected",
+        "a": "形容詞",
+        "description": "期待された"
+    },
+    {
+        "name": "export",
+        "a": "名詞／動詞",
+        "description": "エクスポート／エクスポートする"
+    },
+    {
+        "name": "express",
+        "a": "動詞",
+        "description": "表現する"
+    },
+    {
+        "name": "expression",
+        "a": "名詞",
+        "description": "表現、式"
+    },
+    {
+        "name": "fail",
+        "a": "動詞",
+        "description": "失敗する"
+    },
+    {
+        "name": "feature",
+        "a": "名詞",
+        "description": "機能、特徴"
+    },
+    {
+        "name": "field",
+        "a": "名詞",
+        "description": "フィールド"
+    },
+    {
+        "name": "file",
+        "a": "名詞",
+        "description": "ファイル"
+    },
+    {
+        "name": "filter",
+        "a": "名詞／動詞",
+        "description": "フィルター／絞り込む"
+    },
+    {
+        "name": "fix",
+        "a": "動詞",
+        "description": "修正する、解決する"
+    },
+    {
+        "name": "flag",
+        "a": "名詞",
+        "description": "フラグ"
+    },
+    {
+        "name": "folder",
+        "a": "名詞",
+        "description": "フォルダー"
+    },
+    {
+        "name": "following",
+        "a": "形容詞／名詞",
+        "description": "次に述べる／次の項目"
+    },
+    {
+        "name": "font",
+        "a": "名詞",
+        "description": "フォント"
+    },
+    {
+        "name": "force",
+        "a": "動詞",
+        "description": "強制する"
+    },
+    {
+        "name": "format",
+        "a": "名詞／動詞",
+        "description": "フォーマット、書式／初期化する"
+    },
+    {
+        "name": "function",
+        "a": "名詞",
+        "description": "機能、関数"
+    },
+    {
+        "name": "general",
+        "a": "形容詞",
+        "description": "全般の、一般の"
+    },
+    {
+        "name": "generate",
+        "a": "動詞",
+        "description": "生成する"
+    },
+    {
+        "name": "global",
+        "a": "形容詞",
+        "description": "グローバルな、大域の"
+    },
+    {
+        "name": "graphic",
+        "a": "名詞",
+        "description": "グラフィック、画像"
+    },
+    {
+        "name": "guide",
+        "a": "名詞",
+        "description": "ガイド"
+    },
+    {
+        "name": "hardware",
+        "a": "名詞",
+        "description": "ハードウェア"
+    },
+    {
+        "name": "height",
+        "a": "名詞",
+        "description": "高さ"
+    },
+    {
+        "name": "hide",
+        "a": "動詞",
+        "description": "隠す、非表示にする"
+    },
+    {
+        "name": "highlight",
+        "a": "名詞／動詞",
+        "description": "ハイライト／強調表示する"
+    },
+    {
+        "name": "host",
+        "a": "名詞",
+        "description": "ホスト"
+    },
+    {
+        "name": "icon",
+        "a": "名詞",
+        "description": "アイコン"
+    },
+    {
+        "name": "ignore",
+        "a": "動詞",
+        "description": "無視する"
+    },
+    {
+        "name": "image",
+        "a": "名詞",
+        "description": "画像、イメージ"
+    },
+    {
+        "name": "import",
+        "a": "名詞／動詞",
+        "description": "インポート／インポートする"
+    },
+    {
+        "name": "including",
+        "a": "前置詞",
+        "description": "〜を含めて"
+    },
+    {
+        "name": "index",
+        "a": "名詞",
+        "description": "インデックス、索引"
+    },
+    {
+        "name": "indicate",
+        "a": "動詞",
+        "description": "示す"
+    },
+    {
+        "name": "input",
+        "a": "名詞／動詞",
+        "description": "入力／入力する"
+    },
+    {
+        "name": "install",
+        "a": "動詞",
+        "description": "インストールする"
+    },
+    {
+        "name": "installer",
+        "a": "名詞",
+        "description": "インストーラー"
+    },
+    {
+        "name": "instance",
+        "a": "名詞",
+        "description": "インスタンス、実例"
+    },
+    {
+        "name": "instruction",
+        "a": "名詞",
+        "description": "指示"
+    },
+    {
+        "name": "integer",
+        "a": "名詞",
+        "description": "整数"
+    },
+    {
+        "name": "interface",
+        "a": "名詞",
+        "description": "インターフェイス"
+    },
+    {
+        "name": "issue",
+        "a": "名詞",
+        "description": "問題点"
+    },
+    {
+        "name": "item",
+        "a": "名詞",
+        "description": "項目"
+    },
+    {
+        "name": "label",
+        "a": "名詞／動詞",
+        "description": "ラベル／ラベルを貼る"
+    },
+    {
+        "name": "latest",
+        "a": "形容詞",
+        "description": "最近の"
+    },
+    {
+        "name": "layer",
+        "a": "名詞",
+        "description": "レイヤー、層"
+    },
+    {
+        "name": "layout",
+        "a": "名詞",
+        "description": "レイアウト"
+    },
+    {
+        "name": "length",
+        "a": "名詞",
+        "description": "長さ"
+    },
+    {
+        "name": "level",
+        "a": "名詞",
+        "description": "レベル、水準"
+    },
+    {
+        "name": "library",
+        "a": "名詞",
+        "description": "ライブラリー"
+    },
+    {
+        "name": "license",
+        "a": "名詞／動詞",
+        "description": "ライセンス／ライセンス供与する"
+    },
+    {
+        "name": "limit",
+        "a": "動詞／名詞",
+        "description": "制限する／制限"
+    },
+    {
+        "name": "link",
+        "a": "名詞／動詞",
+        "description": "リンク／リンクする"
+    },
+    {
+        "name": "local",
+        "a": "形容詞",
+        "description": "ローカルの、局所の"
+    },
+    {
+        "name": "location",
+        "a": "名詞",
+        "description": "位置、場所"
+    },
+    {
+        "name": "lock",
+        "a": "動詞",
+        "description": "ロックする"
+    },
+    {
+        "name": "log",
+        "a": "名詞／動詞",
+        "description": "ログ／ログを取る"
+    },
+    {
+        "name": "login",
+        "a": "名詞",
+        "description": "ログイン"
+    },
+    {
+        "name": "loop",
+        "a": "名詞",
+        "description": "ループ"
+    },
+    {
+        "name": "manage",
+        "a": "動詞",
+        "description": "管理する"
+    },
+    {
+        "name": "manager",
+        "a": "名詞",
+        "description": "マネージャー"
+    },
+    {
+        "name": "media",
+        "a": "名詞",
+        "description": "メディア"
+    },
+    {
+        "name": "memory",
+        "a": "名詞",
+        "description": "メモリー"
+    },
+    {
+        "name": "merge",
+        "a": "動詞",
+        "description": "マージする、統合する"
+    },
+    {
+        "name": "method",
+        "a": "名詞",
+        "description": "メソッド、方法"
+    },
+    {
+        "name": "missing",
+        "a": "形容詞",
+        "description": "見つからない、欠落している"
+    },
+    {
+        "name": "mode",
+        "a": "名詞",
+        "description": "モード"
+    },
+    {
+        "name": "module",
+        "a": "名詞",
+        "description": "モジュール"
+    },
+    {
+        "name": "network",
+        "a": "名詞",
+        "description": "ネットワーク"
+    },
+    {
+        "name": "node",
+        "a": "名詞",
+        "description": "ノード"
+    },
+    {
+        "name": "none",
+        "a": "代名詞",
+        "description": "一つもなし"
+    },
+    {
+        "name": "normal",
+        "a": "形容詞",
+        "description": "標準の"
+    },
+    {
+        "name": "note",
+        "a": "名詞／動詞",
+        "description": "注意／〜に注意する"
+    },
+    {
+        "name": "notice",
+        "a": "名詞",
+        "description": "通知、注意"
+    },
+    {
+        "name": "null",
+        "a": "形容詞",
+        "description": "空の、nullの"
+    },
+    {
+        "name": "occur",
+        "a": "動詞",
+        "description": "発生する"
+    },
+    {
+        "name": "operation",
+        "a": "名詞",
+        "description": "操作、処理"
+    },
+    {
+        "name": "option",
+        "a": "名詞",
+        "description": "オプション"
+    },
+    {
+        "name": "optional",
+        "a": "形容詞",
+        "description": "任意の、オプションの"
+    },
+    {
+        "name": "output",
+        "a": "名詞／動詞",
+        "description": "出力／出力する"
+    },
+    {
+        "name": "override",
+        "a": "動詞",
+        "description": "オーバーライドする、優先する"
+    },
+    {
+        "name": "owner",
+        "a": "名詞",
+        "description": "所有者、オーナー"
+    },
+    {
+        "name": "package",
+        "a": "名詞",
+        "description": "パッケージ"
+    },
+    {
+        "name": "pane",
+        "a": "名詞",
+        "description": "ペイン、ウィンドウ"
+    },
+    {
+        "name": "parameter",
+        "a": "名詞",
+        "description": "パラメーター、仮引数"
+    },
+    {
+        "name": "pass",
+        "a": "動詞",
+        "description": "渡す"
+    },
+    {
+        "name": "patch",
+        "a": "名詞",
+        "description": "パッチ、修正プログラム"
+    },
+    {
+        "name": "path",
+        "a": "名詞",
+        "description": "パス"
+    },
+    {
+        "name": "perform",
+        "a": "動詞",
+        "description": "実行する"
+    },
+    {
+        "name": "performance",
+        "a": "名詞",
+        "description": "性能、パフォーマンス"
+    },
+    {
+        "name": "permission",
+        "a": "名詞",
+        "description": "許可"
+    },
+    {
+        "name": "physical",
+        "a": "形容詞",
+        "description": "物理的な"
+    },
+    {
+        "name": "pool",
+        "a": "名詞",
+        "description": "プール"
+    },
+    {
+        "name": "popup",
+        "a": "名詞",
+        "description": "ポップアップ"
+    },
+    {
+        "name": "port",
+        "a": "名詞",
+        "description": "ポート"
+    },
+    {
+        "name": "position",
+        "a": "名詞",
+        "description": "位置"
+    },
+    {
+        "name": "press",
+        "a": "動詞",
+        "description": "押す"
+    },
+    {
+        "name": "preview",
+        "a": "名詞／動詞",
+        "description": "プレビュー／プレビューする"
+    },
+    {
+        "name": "previous",
+        "a": "形容詞",
+        "description": "前の"
+    },
+    {
+        "name": "print",
+        "a": "動詞",
+        "description": "印刷する"
+    },
+    {
+        "name": "process",
+        "a": "名詞／動詞",
+        "description": "プロセス／処理する"
+    },
+    {
+        "name": "profile",
+        "a": "名詞",
+        "description": "プロファイル、プロフィール"
+    },
+    {
+        "name": "properly",
+        "a": "副詞",
+        "description": "適切に、正常に"
+    },
+    {
+        "name": "property",
+        "a": "名詞",
+        "description": "プロパティー"
+    },
+    {
+        "name": "protect",
+        "a": "動詞",
+        "description": "保護する"
+    },
+    {
+        "name": "provide",
+        "a": "動詞",
+        "description": "提供する"
+    },
+    {
+        "name": "public",
+        "a": "形容詞",
+        "description": "公開の"
+    },
+    {
+        "name": "publish",
+        "a": "動詞",
+        "description": "公開する"
+    },
+    {
+        "name": "pull",
+        "a": "動詞／名詞",
+        "description": "プルする、取得する／プル"
+    },
+    {
+        "name": "push",
+        "a": "動詞",
+        "description": "押す、プッシュする"
+    },
+    {
+        "name": "query",
+        "a": "名詞",
+        "description": "クエリー"
+    },
+    {
+        "name": "range",
+        "a": "名詞",
+        "description": "範囲"
+    },
+    {
+        "name": "real-time",
+        "a": "形容詞",
+        "description": "リアルタイムの"
+    },
+    {
+        "name": "receive",
+        "a": "動詞",
+        "description": "受信する"
+    },
+    {
+        "name": "recommend",
+        "a": "動詞",
+        "description": "推奨する"
+    },
+    {
+        "name": "record",
+        "a": "動詞／名詞",
+        "description": "記録する／記録、レコード"
+    },
+    {
+        "name": "refactor",
+        "a": "動詞",
+        "description": "リファクターする"
+    },
+    {
+        "name": "refer",
+        "a": "動詞",
+        "description": "参照する"
+    },
+    {
+        "name": "reference",
+        "a": "名詞／動詞",
+        "description": "参照、リファレンス／参照する"
+    },
+    {
+        "name": "release",
+        "a": "動詞",
+        "description": "リリースする、公開する"
+    },
+    {
+        "name": "remove",
+        "a": "動詞",
+        "description": "削除する"
+    },
+    {
+        "name": "rename",
+        "a": "動詞",
+        "description": "名前を変更する"
+    },
+    {
+        "name": "replace",
+        "a": "動詞",
+        "description": "置換する"
+    },
+    {
+        "name": "report",
+        "a": "動詞／名詞",
+        "description": "報告する／レポート"
+    },
+    {
+        "name": "request",
+        "a": "名詞／動詞",
+        "description": "要求、リクエスト／要求する"
+    },
+    {
+        "name": "require",
+        "a": "動詞",
+        "description": "必要とする"
+    },
+    {
+        "name": "reset",
+        "a": "動詞",
+        "description": "リセットする"
+    },
+    {
+        "name": "resource",
+        "a": "名詞",
+        "description": "リソース、資源"
+    },
+    {
+        "name": "respond",
+        "a": "動詞",
+        "description": "応答する、返信する"
+    },
+    {
+        "name": "response",
+        "a": "名詞",
+        "description": "応答"
+    },
+    {
+        "name": "restart",
+        "a": "動詞",
+        "description": "再起動する"
+    },
+    {
+        "name": "result",
+        "a": "名詞",
+        "description": "結果"
+    },
+    {
+        "name": "right-click",
+        "a": "動詞",
+        "description": "右クリックする"
+    },
+    {
+        "name": "role",
+        "a": "名詞",
+        "description": "役割、ロール"
+    },
+    {
+        "name": "root",
+        "a": "名詞",
+        "description": "ルート"
+    },
+    {
+        "name": "route",
+        "a": "名詞",
+        "description": "経路、ルート"
+    },
+    {
+        "name": "row",
+        "a": "名詞",
+        "description": "行"
+    },
+    {
+        "name": "save",
+        "a": "動詞",
+        "description": "保存する"
+    },
+    {
+        "name": "scan",
+        "a": "動詞",
+        "description": "スキャンする、走査する"
+    },
+    {
+        "name": "schedule",
+        "a": "名詞／動詞",
+        "description": "予定、スケジュール／予定する"
+    },
+    {
+        "name": "screen",
+        "a": "名詞",
+        "description": "画面"
+    },
+    {
+        "name": "script",
+        "a": "名詞",
+        "description": "スクリプト"
+    },
+    {
+        "name": "scroll",
+        "a": "動詞",
+        "description": "スクロールする"
+    },
+    {
+        "name": "search",
+        "a": "動詞／名詞",
+        "description": "検索する／検索"
+    },
+    {
+        "name": "security",
+        "a": "名詞",
+        "description": "セキュリティー"
+    },
+    {
+        "name": "select",
+        "a": "動詞",
+        "description": "選択する"
+    },
+    {
+        "name": "server",
+        "a": "名詞",
+        "description": "サーバー"
+    },
+    {
+        "name": "setting",
+        "a": "名詞",
+        "description": "設定"
+    },
+    {
+        "name": "shape",
+        "a": "名詞",
+        "description": "形状"
+    },
+    {
+        "name": "share",
+        "a": "動詞",
+        "description": "共有する"
+    },
+    {
+        "name": "shortcut",
+        "a": "名詞",
+        "description": "ショートカット"
+    },
+    {
+        "name": "sign",
+        "a": "名詞／動詞",
+        "description": "署名／サインイン（sign in）する、サインアウト（sign out）する"
+    },
+    {
+        "name": "skip",
+        "a": "動詞",
+        "description": "スキップする、後でする"
+    },
+    {
+        "name": "sort",
+        "a": "動詞",
+        "description": "並び替える、ソートする"
+    },
+    {
+        "name": "source",
+        "a": "名詞",
+        "description": "ソース、〜元（送信元など）"
+    },
+    {
+        "name": "specific",
+        "a": "形容詞",
+        "description": "特定の"
+    },
+    {
+        "name": "specify",
+        "a": "動詞",
+        "description": "指定する"
+    },
+    {
+        "name": "state",
+        "a": "名詞",
+        "description": "状態"
+    },
+    {
+        "name": "status",
+        "a": "名詞",
+        "description": "状態、ステータス"
+    },
+    {
+        "name": "step",
+        "a": "名詞",
+        "description": "ステップ、手順"
+    },
+    {
+        "name": "store",
+        "a": "動詞",
+        "description": "保存する、格納する"
+    },
+    {
+        "name": "string",
+        "a": "名詞",
+        "description": "文字列"
+    },
+    {
+        "name": "submit",
+        "a": "動詞",
+        "description": "提出する、送信する"
+    },
+    {
+        "name": "successful",
+        "a": "形容詞",
+        "description": "成功した"
+    },
+    {
+        "name": "supply",
+        "a": "動詞",
+        "description": "供給する"
+    },
+    {
+        "name": "support",
+        "a": "動詞／名詞",
+        "description": "サポートする、支援する／サポート"
+    },
+    {
+        "name": "switch",
+        "a": "動詞／名詞",
+        "description": "切り替える／スイッチ"
+    },
+    {
+        "name": "system",
+        "a": "名詞",
+        "description": "システム"
+    },
+    {
+        "name": "tab",
+        "a": "名詞",
+        "description": "タブ"
+    },
+    {
+        "name": "table",
+        "a": "名詞",
+        "description": "表、テーブル"
+    },
+    {
+        "name": "tag",
+        "a": "名詞",
+        "description": "タグ"
+    },
+    {
+        "name": "target",
+        "a": "名詞",
+        "description": "ターゲット、対象、〜先（移動先など）"
+    },
+    {
+        "name": "task",
+        "a": "名詞",
+        "description": "タスク"
+    },
+    {
+        "name": "template",
+        "a": "名詞",
+        "description": "テンプレート"
+    },
+    {
+        "name": "temporary",
+        "a": "形容詞",
+        "description": "一時的な"
+    },
+    {
+        "name": "throw",
+        "a": "動詞",
+        "description": "スローする、投げる"
+    },
+    {
+        "name": "timeout",
+        "a": "名詞",
+        "description": "タイムアウト"
+    },
+    {
+        "name": "touch",
+        "a": "動詞",
+        "description": "タッチする"
+    },
+    {
+        "name": "translate",
+        "a": "動詞",
+        "description": "変換する、翻訳する"
+    },
+    {
+        "name": "type",
+        "a": "名詞／動詞",
+        "description": "種類／（キーボードで）入力する"
+    },
+    {
+        "name": "unable",
+        "a": "形容詞",
+        "description": "不可能な"
+    },
+    {
+        "name": "undo",
+        "a": "動詞",
+        "description": "元に戻す"
+    },
+    {
+        "name": "uninstall",
+        "a": "動詞",
+        "description": "アンインストールする"
+    },
+    {
+        "name": "unit",
+        "a": "名詞",
+        "description": "単位、ユニット"
+    },
+    {
+        "name": "unused",
+        "a": "形容詞",
+        "description": "未使用の"
+    },
+    {
+        "name": "update",
+        "a": "動詞／名詞",
+        "description": "更新する／更新"
+    },
+    {
+        "name": "upgrade",
+        "a": "動詞",
+        "description": "アップグレードする"
+    },
+    {
+        "name": "upload",
+        "a": "動詞／名詞",
+        "description": "アップロードする／アップロード"
+    },
+    {
+        "name": "value",
+        "a": "名詞",
+        "description": "値"
+    },
+    {
+        "name": "variable",
+        "a": "名詞",
+        "description": "変数"
+    },
+    {
+        "name": "version",
+        "a": "名詞",
+        "description": "バージョン、版"
+    },
+    {
+        "name": "view",
+        "a": "動詞／名詞",
+        "description": "表示する／表示、ビュー"
+    },
+    {
+        "name": "warn",
+        "a": "動詞",
+        "description": "警告する"
+    },
+    {
+        "name": "warning",
+        "a": "名詞",
+        "description": "警告"
+    },
+    {
+        "name": "widget",
+        "a": "名詞",
+        "description": "ウィジェット"
+    },
+    {
+        "name": "width",
+        "a": "名詞",
+        "description": "幅"
+    },
+    {
+        "name": "wizard",
+        "a": "名詞",
+        "description": "ウィザード"
+    },
+    {
+        "name": "abstract",
+        "a": "形容詞",
+        "description": "抽象的な"
+    },
+    {
+        "name": "accessibility",
+        "a": "名詞",
+        "description": "アクセシビリティー"
+    },
+    {
+        "name": "accessible",
+        "a": "形容詞",
+        "description": "アクセス可能な、利用可能な"
+    },
+    {
+        "name": "activate",
+        "a": "動詞",
+        "description": "有効にする、アクティブにする"
+    },
+    {
+        "name": "active",
+        "a": "形容詞",
+        "description": "有効な、アクティブな"
+    },
+    {
+        "name": "additional",
+        "a": "形容詞",
+        "description": "追加の"
+    },
+    {
+        "name": "adjust",
+        "a": "動詞",
+        "description": "調整する"
+    },
+    {
+        "name": "administrator",
+        "a": "名詞",
+        "description": "管理者"
+    },
+    {
+        "name": "aggregate",
+        "a": "動詞",
+        "description": "集約する"
+    },
+    {
+        "name": "alias",
+        "a": "名詞",
+        "description": "エイリアス、別名"
+    },
+    {
+        "name": "allocation",
+        "a": "名詞",
+        "description": "割り当て"
+    },
+    {
+        "name": "annotation",
+        "a": "名詞",
+        "description": "アノテーション、注釈"
+    },
+    {
+        "name": "anonymous",
+        "a": "形容詞",
+        "description": "無名の、匿名の"
+    },
+    {
+        "name": "append",
+        "a": "動詞",
+        "description": "追加する"
+    },
+    {
+        "name": "applicable",
+        "a": "形容詞",
+        "description": "該当する、適用可能な"
+    },
+    {
+        "name": "archive",
+        "a": "名詞／動詞",
+        "description": "アーカイブ／アーカイブする"
+    },
+    {
+        "name": "assert",
+        "a": "動詞",
+        "description": "アサートする、表明する"
+    },
+    {
+        "name": "asset",
+        "a": "名詞",
+        "description": "アセット、資産"
+    },
+    {
+        "name": "assign",
+        "a": "動詞",
+        "description": "割り当てる"
+    },
+    {
+        "name": "assignment",
+        "a": "名詞",
+        "description": "割り当て"
+    },
+    {
+        "name": "associate",
+        "a": "動詞",
+        "description": "関連づける"
+    },
+    {
+        "name": "attach",
+        "a": "動詞",
+        "description": "接続する、添付する"
+    },
+    {
+        "name": "authentication",
+        "a": "名詞",
+        "description": "認証"
+    },
+    {
+        "name": "authorize",
+        "a": "動詞",
+        "description": "権限を与える"
+    },
+    {
+        "name": "auto",
+        "a": "形容詞",
+        "description": "自動の"
+    },
+    {
+        "name": "automatic",
+        "a": "形容詞",
+        "description": "自動の"
+    },
+    {
+        "name": "automatically",
+        "a": "副詞",
+        "description": "自動で、自動的に"
+    },
+    {
+        "name": "availability",
+        "a": "名詞",
+        "description": "可用性"
+    },
+    {
+        "name": "batch",
+        "a": "名詞",
+        "description": "バッチ"
+    },
+    {
+        "name": "binary",
+        "a": "形容詞",
+        "description": "バイナリーの、二進法の"
+    },
+    {
+        "name": "bind",
+        "a": "動詞",
+        "description": "バインドする"
+    },
+    {
+        "name": "boot",
+        "a": "動詞／名詞",
+        "description": "起動する／起動"
+    },
+    {
+        "name": "brace",
+        "a": "名詞",
+        "description": "波かっこ"
+    },
+    {
+        "name": "bracket",
+        "a": "名詞",
+        "description": "角かっこ"
+    },
+    {
+        "name": "breakpoint",
+        "a": "名詞",
+        "description": "ブレークポイント"
+    },
+    {
+        "name": "browse",
+        "a": "動詞",
+        "description": "閲覧する、参照する"
+    },
+    {
+        "name": "buffer",
+        "a": "名詞／動詞",
+        "description": "バッファー／バッファー処理する"
+    },
+    {
+        "name": "bump",
+        "a": "動詞",
+        "description": "バージョンを上げる"
+    },
+    {
+        "name": "bundle",
+        "a": "名詞／動詞",
+        "description": "バンドル／バンドルする"
+    },
+    {
+        "name": "calculate",
+        "a": "動詞",
+        "description": "計算する"
+    },
+    {
+        "name": "callback",
+        "a": "名詞",
+        "description": "コールバック"
+    },
+    {
+        "name": "capability",
+        "a": "名詞",
+        "description": "機能"
+    },
+    {
+        "name": "capture",
+        "a": "動詞",
+        "description": "取り込む、キャプチャーする"
+    },
+    {
+        "name": "caret",
+        "a": "名詞",
+        "description": "文字入力カーソル、カレット"
+    },
+    {
+        "name": "cast",
+        "a": "動詞",
+        "description": "キャストする"
+    },
+    {
+        "name": "certificate",
+        "a": "名詞",
+        "description": "証明書"
+    },
+    {
+        "name": "checkout",
+        "a": "名詞",
+        "description": "チェックアウト"
+    },
+    {
+        "name": "clarify",
+        "a": "動詞",
+        "description": "明確にする"
+    },
+    {
+        "name": "cleanup",
+        "a": "名詞",
+        "description": "クリーンアップ、整理"
+    },
+    {
+        "name": "clone",
+        "a": "動詞",
+        "description": "複製する"
+    },
+    {
+        "name": "collapse",
+        "a": "動詞",
+        "description": "折りたたむ、非表示にする"
+    },
+    {
+        "name": "compatibility",
+        "a": "名詞",
+        "description": "互換性"
+    },
+    {
+        "name": "compile",
+        "a": "動詞",
+        "description": "コンパイルする"
+    },
+    {
+        "name": "completion",
+        "a": "名詞",
+        "description": "補完、完了"
+    },
+    {
+        "name": "compress",
+        "a": "動詞",
+        "description": "圧縮する"
+    },
+    {
+        "name": "compute",
+        "a": "動詞",
+        "description": "計算する"
+    },
+    {
+        "name": "conditional",
+        "a": "形容詞",
+        "description": "条件つきの"
+    },
+    {
+        "name": "configure",
+        "a": "動詞",
+        "description": "構成する、設定する"
+    },
+    {
+        "name": "confirm",
+        "a": "動詞",
+        "description": "確定する、確認する"
+    },
+    {
+        "name": "conflict",
+        "a": "動詞／名詞",
+        "description": "競合する／競合"
+    },
+    {
+        "name": "constraint",
+        "a": "名詞",
+        "description": "制約"
+    },
+    {
+        "name": "construct",
+        "a": "動詞",
+        "description": "（コンストラクターで）生成する"
+    },
+    {
+        "name": "contact",
+        "a": "動詞／名詞",
+        "description": "連絡する／連絡先"
+    },
+    {
+        "name": "contribute",
+        "a": "動詞",
+        "description": "貢献する"
+    },
+    {
+        "name": "convert",
+        "a": "動詞",
+        "description": "変換する"
+    },
+    {
+        "name": "coordinate",
+        "a": "名詞",
+        "description": "座標"
+    },
+    {
+        "name": "copyright",
+        "a": "名詞",
+        "description": "著作権"
+    },
+    {
+        "name": "crash",
+        "a": "動詞",
+        "description": "クラッシュする、突然停止する"
+    },
+    {
+        "name": "credential",
+        "a": "名詞",
+        "description": "資格情報"
+    },
+    {
+        "name": "debugger",
+        "a": "名詞",
+        "description": "デバッガー"
+    },
+    {
+        "name": "decimal",
+        "a": "形容詞",
+        "description": "小数の、十進法の"
+    },
+    {
+        "name": "declaration",
+        "a": "名詞",
+        "description": "宣言"
+    },
+    {
+        "name": "declare",
+        "a": "動詞",
+        "description": "宣言する"
+    },
+    {
+        "name": "decode",
+        "a": "動詞",
+        "description": "デコードする"
+    },
+    {
+        "name": "dedicated",
+        "a": "形容詞",
+        "description": "専用の"
+    },
+    {
+        "name": "delay",
+        "a": "名詞",
+        "description": "遅延"
+    },
+    {
+        "name": "dependency",
+        "a": "名詞",
+        "description": "依存関係"
+    },
+    {
+        "name": "deploy",
+        "a": "動詞",
+        "description": "配備する、デプロイする"
+    },
+    {
+        "name": "deployment",
+        "a": "名詞",
+        "description": "配備、デプロイ"
+    },
+    {
+        "name": "deprecated",
+        "a": "形容詞",
+        "description": "非推奨の"
+    },
+    {
+        "name": "deprecation",
+        "a": "名詞",
+        "description": "非推奨"
+    },
+    {
+        "name": "descriptor",
+        "a": "名詞",
+        "description": "記述子"
+    },
+    {
+        "name": "destination",
+        "a": "名詞",
+        "description": "目的地、〜先（移動先など）"
+    },
+    {
+        "name": "detect",
+        "a": "動詞",
+        "description": "検出する"
+    },
+    {
+        "name": "digit",
+        "a": "名詞",
+        "description": "数字、桁"
+    },
+    {
+        "name": "disable",
+        "a": "動詞",
+        "description": "無効にする"
+    },
+    {
+        "name": "display",
+        "a": "動詞／名詞",
+        "description": "表示する／表示、画面"
+    },
+    {
+        "name": "distribute",
+        "a": "動詞",
+        "description": "分散する"
+    },
+    {
+        "name": "dump",
+        "a": "動詞",
+        "description": "ダンプする"
+    },
+    {
+        "name": "duplicate",
+        "a": "形容詞／動詞",
+        "description": "重複する／複製する"
+    },
+    {
+        "name": "duration",
+        "a": "名詞",
+        "description": "期間"
+    },
+    {
+        "name": "dynamic",
+        "a": "形容詞",
+        "description": "動的な"
+    },
+    {
+        "name": "dynamically",
+        "a": "副詞",
+        "description": "動的に"
+    },
+    {
+        "name": "emit",
+        "a": "動詞",
+        "description": "発する、生成する"
+    },
+    {
+        "name": "enable",
+        "a": "動詞",
+        "description": "可能にする、有効にする"
+    },
+    {
+        "name": "encode",
+        "a": "動詞",
+        "description": "エンコードする"
+    },
+    {
+        "name": "encoding",
+        "a": "名詞",
+        "description": "エンコーディング、符号化"
+    },
+    {
+        "name": "encounter",
+        "a": "動詞",
+        "description": "遭遇する"
+    },
+    {
+        "name": "encryption",
+        "a": "名詞",
+        "description": "暗号化"
+    },
+    {
+        "name": "endpoint",
+        "a": "名詞",
+        "description": "エンドポイント、端点"
+    },
+    {
+        "name": "ensure",
+        "a": "動詞",
+        "description": "確実にする、確かめる"
+    },
+    {
+        "name": "entity",
+        "a": "名詞",
+        "description": "エンティティー、実体"
+    },
+    {
+        "name": "enumeration",
+        "a": "名詞",
+        "description": "列挙"
+    },
+    {
+        "name": "escape",
+        "a": "動詞",
+        "description": "エスケープする"
+    },
+    {
+        "name": "exclude",
+        "a": "動詞",
+        "description": "除外する"
+    },
+    {
+        "name": "executable",
+        "a": "形容詞／名詞",
+        "description": "実行可能な／実行可能ファイル"
+    },
+    {
+        "name": "execute",
+        "a": "動詞",
+        "description": "実行する"
+    },
+    {
+        "name": "execution",
+        "a": "名詞",
+        "description": "実行"
+    },
+    {
+        "name": "existing",
+        "a": "形容詞",
+        "description": "既存の"
+    },
+    {
+        "name": "extend",
+        "a": "動詞",
+        "description": "拡張する"
+    },
+    {
+        "name": "extension",
+        "a": "名詞",
+        "description": "拡張、拡張子"
+    },
+    {
+        "name": "external",
+        "a": "形容詞",
+        "description": "外部の"
+    },
+    {
+        "name": "extract",
+        "a": "動詞",
+        "description": "抽出する"
+    },
+    {
+        "name": "failure",
+        "a": "名詞",
+        "description": "失敗、故障"
+    },
+    {
+        "name": "fallback",
+        "a": "名詞",
+        "description": "フォールバック"
+    },
+    {
+        "name": "fetch",
+        "a": "動詞",
+        "description": "取得する、フェッチする"
+    },
+    {
+        "name": "framework",
+        "a": "名詞",
+        "description": "フレームワーク"
+    },
+    {
+        "name": "functionality",
+        "a": "名詞",
+        "description": "機能"
+    },
+    {
+        "name": "generation",
+        "a": "名詞",
+        "description": "生成"
+    },
+    {
+        "name": "generic",
+        "a": "形容詞",
+        "description": "汎用の、ジェネリックの"
+    },
+    {
+        "name": "hack",
+        "a": "名詞／動詞",
+        "description": "ハッキング、一時回避策／ハックする、（その場しのぎで）作る"
+    },
+    {
+        "name": "handle",
+        "a": "動詞／名詞",
+        "description": "処理する／ハンドル"
+    },
+    {
+        "name": "handler",
+        "a": "名詞",
+        "description": "ハンドラー"
+    },
+    {
+        "name": "handling",
+        "a": "名詞",
+        "description": "処理"
+    },
+    {
+        "name": "hash",
+        "a": "名詞",
+        "description": "ハッシュ、ハッシュ記号"
+    },
+    {
+        "name": "header",
+        "a": "名詞",
+        "description": "ヘッダー"
+    },
+    {
+        "name": "hierarchy",
+        "a": "名詞",
+        "description": "階層"
+    },
+    {
+        "name": "identifier",
+        "a": "名詞",
+        "description": "識別子"
+    },
+    {
+        "name": "implement",
+        "a": "動詞",
+        "description": "実装する"
+    },
+    {
+        "name": "implementation",
+        "a": "名詞",
+        "description": "実装"
+    },
+    {
+        "name": "incompatible",
+        "a": "形容詞",
+        "description": "互換性がない"
+    },
+    {
+        "name": "increment",
+        "a": "名詞／動詞",
+        "description": "増分、インクリメント／増分させる"
+    },
+    {
+        "name": "indentation",
+        "a": "名詞",
+        "description": "インデント"
+    },
+    {
+        "name": "initial",
+        "a": "形容詞",
+        "description": "初期の、最初の"
+    },
+    {
+        "name": "initialization",
+        "a": "名詞",
+        "description": "初期化"
+    },
+    {
+        "name": "initialize",
+        "a": "動詞",
+        "description": "初期化する"
+    },
+    {
+        "name": "inline",
+        "a": "形容詞／動詞",
+        "description": "インラインの／インライン化する"
+    },
+    {
+        "name": "inner",
+        "a": "形容詞",
+        "description": "内部の、内側の"
+    },
+    {
+        "name": "insert",
+        "a": "動詞",
+        "description": "挿入する"
+    },
+    {
+        "name": "inspect",
+        "a": "動詞",
+        "description": "検査する"
+    },
+    {
+        "name": "inspection",
+        "a": "名詞",
+        "description": "検査"
+    },
+    {
+        "name": "installation",
+        "a": "名詞",
+        "description": "インストール"
+    },
+    {
+        "name": "interact",
+        "a": "動詞",
+        "description": "対話する"
+    },
+    {
+        "name": "internal",
+        "a": "形容詞",
+        "description": "内部の"
+    },
+    {
+        "name": "interval",
+        "a": "名詞",
+        "description": "間隔"
+    },
+    {
+        "name": "invalid",
+        "a": "形容詞",
+        "description": "無効な"
+    },
+    {
+        "name": "invoke",
+        "a": "動詞",
+        "description": "呼び出す"
+    },
+    {
+        "name": "iterate",
+        "a": "動詞",
+        "description": "反復する、繰り返す"
+    },
+    {
+        "name": "latency",
+        "a": "名詞",
+        "description": "待ち時間"
+    },
+    {
+        "name": "launch",
+        "a": "動詞",
+        "description": "起動する、開始する"
+    },
+    {
+        "name": "listener",
+        "a": "名詞",
+        "description": "リスナー"
+    },
+    {
+        "name": "load",
+        "a": "動詞",
+        "description": "読み込む"
+    },
+    {
+        "name": "locale",
+        "a": "名詞",
+        "description": "ロケール"
+    },
+    {
+        "name": "logic",
+        "a": "名詞",
+        "description": "ロジック、論理"
+    },
+    {
+        "name": "lookup",
+        "a": "名詞",
+        "description": "検索、探索、ルックアップ"
+    },
+    {
+        "name": "manual",
+        "a": "形容詞／名詞",
+        "description": "手動の／マニュアル"
+    },
+    {
+        "name": "manually",
+        "a": "副詞",
+        "description": "手動で"
+    },
+    {
+        "name": "map",
+        "a": "名詞／動詞",
+        "description": "地図／対応づける、マッピングする"
+    },
+    {
+        "name": "master",
+        "a": "名詞",
+        "description": "マスター"
+    },
+    {
+        "name": "matching",
+        "a": "形容詞",
+        "description": "一致する、マッチする"
+    },
+    {
+        "name": "maximum",
+        "a": "形容詞",
+        "description": "最大の"
+    },
+    {
+        "name": "metadata",
+        "a": "名詞",
+        "description": "メタデータ"
+    },
+    {
+        "name": "migration",
+        "a": "名詞",
+        "description": "移行"
+    },
+    {
+        "name": "millisecond",
+        "a": "名詞",
+        "description": "ミリ秒"
+    },
+    {
+        "name": "minimum",
+        "a": "形容詞",
+        "description": "最小の"
+    },
+    {
+        "name": "minor",
+        "a": "形容詞",
+        "description": "マイナーな、小さな"
+    },
+    {
+        "name": "mock",
+        "a": "形容詞",
+        "description": "モックの、模造の"
+    },
+    {
+        "name": "modification",
+        "a": "名詞",
+        "description": "修正、変更"
+    },
+    {
+        "name": "modifier",
+        "a": "名詞",
+        "description": "修飾子"
+    },
+    {
+        "name": "modify",
+        "a": "動詞",
+        "description": "修正する、変更する"
+    },
+    {
+        "name": "monitor",
+        "a": "動詞",
+        "description": "監視する"
+    },
+    {
+        "name": "multiple",
+        "a": "形容詞",
+        "description": "複数の"
+    },
+    {
+        "name": "namespace",
+        "a": "名詞",
+        "description": "名前空間"
+    },
+    {
+        "name": "native",
+        "a": "形容詞",
+        "description": "ネイティブの"
+    },
+    {
+        "name": "navigate",
+        "a": "動詞",
+        "description": "移動する"
+    },
+    {
+        "name": "navigation",
+        "a": "名詞",
+        "description": "ナビゲーション、移動"
+    },
+    {
+        "name": "nested",
+        "a": "形容詞",
+        "description": "入れ子の、ネストされた"
+    },
+    {
+        "name": "normalize",
+        "a": "動詞",
+        "description": "標準化する、正規化する"
+    },
+    {
+        "name": "notification",
+        "a": "名詞",
+        "description": "通知"
+    },
+    {
+        "name": "notify",
+        "a": "動詞",
+        "description": "通知する"
+    },
+    {
+        "name": "numeric",
+        "a": "形容詞",
+        "description": "数値の"
+    },
+    {
+        "name": "obtain",
+        "a": "動詞",
+        "description": "取得する"
+    },
+    {
+        "name": "occurrence",
+        "a": "名詞",
+        "description": "出現、発生"
+    },
+    {
+        "name": "offset",
+        "a": "名詞",
+        "description": "オフセット"
+    },
+    {
+        "name": "optimize",
+        "a": "動詞",
+        "description": "最適化する"
+    },
+    {
+        "name": "otherwise",
+        "a": "副詞",
+        "description": "さもないと"
+    },
+    {
+        "name": "overview",
+        "a": "名詞",
+        "description": "概要"
+    },
+    {
+        "name": "overwrite",
+        "a": "動詞",
+        "description": "上書きする"
+    },
+    {
+        "name": "padding",
+        "a": "名詞",
+        "description": "パディング"
+    },
+    {
+        "name": "parenthesis",
+        "a": "名詞",
+        "description": "丸かっこ"
+    },
+    {
+        "name": "parse",
+        "a": "動詞",
+        "description": "パースする、解析する"
+    },
+    {
+        "name": "payload",
+        "a": "名詞",
+        "description": "ペイロード"
+    },
+    {
+        "name": "permit",
+        "a": "動詞",
+        "description": "許可する"
+    },
+    {
+        "name": "persistence",
+        "a": "名詞",
+        "description": "永続化"
+    },
+    {
+        "name": "placeholder",
+        "a": "名詞",
+        "description": "プレースホルダー"
+    },
+    {
+        "name": "plugin",
+        "a": "名詞",
+        "description": "プラグイン"
+    },
+    {
+        "name": "populate",
+        "a": "動詞",
+        "description": "自動入力する"
+    },
+    {
+        "name": "preference",
+        "a": "名詞",
+        "description": "プリファレンス、ユーザー設定"
+    },
+    {
+        "name": "preferred",
+        "a": "形容詞",
+        "description": "優先の"
+    },
+    {
+        "name": "prefix",
+        "a": "名詞",
+        "description": "接頭辞、プレフィックス"
+    },
+    {
+        "name": "priority",
+        "a": "名詞",
+        "description": "優先順位"
+    },
+    {
+        "name": "private",
+        "a": "形容詞",
+        "description": "プライベートな、非公開の"
+    },
+    {
+        "name": "progress",
+        "a": "名詞",
+        "description": "進行状況"
+    },
+    {
+        "name": "protocol",
+        "a": "名詞",
+        "description": "プロトコル"
+    },
+    {
+        "name": "prototype",
+        "a": "名詞",
+        "description": "プロトタイプ"
+    },
+    {
+        "name": "provider",
+        "a": "名詞",
+        "description": "プロバイダー"
+    },
+    {
+        "name": "provision",
+        "a": "名詞",
+        "description": "プロビジョニング"
+    },
+    {
+        "name": "proxy",
+        "a": "名詞",
+        "description": "プロキシ"
+    },
+    {
+        "name": "queue",
+        "a": "名詞",
+        "description": "キュー、待ち行列"
+    },
+    {
+        "name": "raw",
+        "a": "形容詞",
+        "description": "生の"
+    },
+    {
+        "name": "redirect",
+        "a": "動詞",
+        "description": "リダイレクトする、転送する"
+    },
+    {
+        "name": "redundant",
+        "a": "形容詞",
+        "description": "冗長な"
+    },
+    {
+        "name": "refresh",
+        "a": "動詞",
+        "description": "更新する"
+    },
+    {
+        "name": "register",
+        "a": "動詞",
+        "description": "登録する"
+    },
+    {
+        "name": "registration",
+        "a": "名詞",
+        "description": "登録"
+    },
+    {
+        "name": "registry",
+        "a": "名詞",
+        "description": "レジストリー"
+    },
+    {
+        "name": "reload",
+        "a": "動詞",
+        "description": "再読み込みする、リロードする"
+    },
+    {
+        "name": "remote",
+        "a": "形容詞",
+        "description": "遠隔の、リモートの"
+    },
+    {
+        "name": "removal",
+        "a": "名詞",
+        "description": "削除、除去"
+    },
+    {
+        "name": "render",
+        "a": "動詞",
+        "description": "描画する、レンダリングする"
+    },
+    {
+        "name": "repository",
+        "a": "名詞",
+        "description": "リポジトリー"
+    },
+    {
+        "name": "represent",
+        "a": "動詞",
+        "description": "表す"
+    },
+    {
+        "name": "representation",
+        "a": "名詞",
+        "description": "表現"
+    },
+    {
+        "name": "reserve",
+        "a": "動詞",
+        "description": "予約する、確保する"
+    },
+    {
+        "name": "resize",
+        "a": "動詞",
+        "description": "サイズ変更する"
+    },
+    {
+        "name": "resolution",
+        "a": "名詞",
+        "description": "解像度、精度、解決"
+    },
+    {
+        "name": "resolve",
+        "a": "動詞",
+        "description": "解決する"
+    },
+    {
+        "name": "restore",
+        "a": "動詞",
+        "description": "復元する"
+    },
+    {
+        "name": "restriction",
+        "a": "名詞",
+        "description": "制限"
+    },
+    {
+        "name": "retrieve",
+        "a": "動詞",
+        "description": "取得する"
+    },
+    {
+        "name": "revert",
+        "a": "動詞",
+        "description": "（以前の状態に）戻す"
+    },
+    {
+        "name": "revision",
+        "a": "名詞",
+        "description": "改訂、リビジョン"
+    },
+    {
+        "name": "runtime",
+        "a": "名詞",
+        "description": "実行時、ランタイム"
+    },
+    {
+        "name": "sanitize",
+        "a": "動詞",
+        "description": "サニタイズする"
+    },
+    {
+        "name": "scale",
+        "a": "動詞",
+        "description": "（大きさを）変える"
+    },
+    {
+        "name": "schema",
+        "a": "名詞",
+        "description": "スキーマ"
+    },
+    {
+        "name": "scope",
+        "a": "名詞",
+        "description": "スコープ、範囲"
+    },
+    {
+        "name": "secure",
+        "a": "形容詞",
+        "description": "セキュアな、安全な"
+    },
+    {
+        "name": "separator",
+        "a": "名詞",
+        "description": "セパレーター、区切り"
+    },
+    {
+        "name": "sequence",
+        "a": "名詞",
+        "description": "シーケンス"
+    },
+    {
+        "name": "serialize",
+        "a": "動詞",
+        "description": "シリアル化する"
+    },
+    {
+        "name": "session",
+        "a": "名詞",
+        "description": "セッション"
+    },
+    {
+        "name": "setup",
+        "a": "名詞",
+        "description": "設定、構成、セットアップ"
+    },
+    {
+        "name": "shutdown",
+        "a": "名詞",
+        "description": "シャットダウン"
+    },
+    {
+        "name": "signature",
+        "a": "名詞",
+        "description": "署名"
+    },
+    {
+        "name": "simplify",
+        "a": "動詞",
+        "description": "簡素化する"
+    },
+    {
+        "name": "snapshot",
+        "a": "名詞",
+        "description": "スナップショット"
+    },
+    {
+        "name": "socket",
+        "a": "名詞",
+        "description": "ソケット"
+    },
+    {
+        "name": "specification",
+        "a": "名詞",
+        "description": "仕様"
+    },
+    {
+        "name": "split",
+        "a": "動詞",
+        "description": "分割する"
+    },
+    {
+        "name": "stack",
+        "a": "名詞",
+        "description": "スタック"
+    },
+    {
+        "name": "standalone",
+        "a": "形容詞",
+        "description": "スタンドアロンの"
+    },
+    {
+        "name": "startup",
+        "a": "名詞",
+        "description": "起動、スタートアップ"
+    },
+    {
+        "name": "static",
+        "a": "形容詞",
+        "description": "静的な"
+    },
+    {
+        "name": "storage",
+        "a": "名詞",
+        "description": "ストレージ"
+    },
+    {
+        "name": "stream",
+        "a": "名詞",
+        "description": "ストリーム"
+    },
+    {
+        "name": "successfully",
+        "a": "副詞",
+        "description": "正常に"
+    },
+    {
+        "name": "suffix",
+        "a": "名詞",
+        "description": "接尾辞、サフィックス"
+    },
+    {
+        "name": "suppress",
+        "a": "動詞",
+        "description": "表示しない"
+    },
+    {
+        "name": "synchronize",
+        "a": "動詞",
+        "description": "同期する"
+    },
+    {
+        "name": "syntax",
+        "a": "名詞",
+        "description": "構文、シンタックス"
+    },
+    {
+        "name": "terminate",
+        "a": "動詞",
+        "description": "終了する"
+    },
+    {
+        "name": "termination",
+        "a": "名詞",
+        "description": "終了"
+    },
+    {
+        "name": "terms",
+        "a": "名詞",
+        "description": "利用条件"
+    },
+    {
+        "name": "third party",
+        "a": "名詞",
+        "description": "サード・パーティー、第三者"
+    },
+    {
+        "name": "thread",
+        "a": "名詞",
+        "description": "スレッド"
+    },
+    {
+        "name": "timestamp",
+        "a": "名詞",
+        "description": "タイムスタンプ"
+    },
+    {
+        "name": "todo",
+        "a": "名詞",
+        "description": "TODO、するべきこと"
+    },
+    {
+        "name": "toggle",
+        "a": "動詞",
+        "description": "切り替える"
+    },
+    {
+        "name": "token",
+        "a": "名詞",
+        "description": "トークン"
+    },
+    {
+        "name": "transaction",
+        "a": "名詞",
+        "description": "トランザクション"
+    },
+    {
+        "name": "transfer",
+        "a": "動詞",
+        "description": "転送する"
+    },
+    {
+        "name": "transform",
+        "a": "動詞",
+        "description": "変換する、変形する"
+    },
+    {
+        "name": "transition",
+        "a": "名詞",
+        "description": "遷移"
+    },
+    {
+        "name": "trigger",
+        "a": "動詞",
+        "description": "トリガーする"
+    },
+    {
+        "name": "tweak",
+        "a": "動詞",
+        "description": "微調整する"
+    },
+    {
+        "name": "typo",
+        "a": "名詞",
+        "description": "入力ミス、タイポ"
+    },
+    {
+        "name": "unauthorized",
+        "a": "形容詞",
+        "description": "権限のない"
+    },
+    {
+        "name": "unavailable",
+        "a": "形容詞",
+        "description": "利用できない"
+    },
+    {
+        "name": "undefined",
+        "a": "形容詞",
+        "description": "未定義の"
+    },
+    {
+        "name": "unexpected",
+        "a": "形容詞",
+        "description": "予期しない"
+    },
+    {
+        "name": "unique",
+        "a": "形容詞",
+        "description": "一意の、固有の"
+    },
+    {
+        "name": "unknown",
+        "a": "形容詞",
+        "description": "不明の"
+    },
+    {
+        "name": "unnecessary",
+        "a": "形容詞",
+        "description": "不要な"
+    },
+    {
+        "name": "unresolved",
+        "a": "形容詞",
+        "description": "未解決の"
+    },
+    {
+        "name": "unsupported",
+        "a": "形容詞",
+        "description": "非対応の、サポートされない"
+    },
+    {
+        "name": "usage",
+        "a": "名詞",
+        "description": "利用、使用"
+    },
+    {
+        "name": "username",
+        "a": "名詞",
+        "description": "ユーザー名"
+    },
+    {
+        "name": "valid",
+        "a": "形容詞",
+        "description": "有効な"
+    },
+    {
+        "name": "validate",
+        "a": "動詞",
+        "description": "検証する"
+    },
+    {
+        "name": "validation",
+        "a": "動詞",
+        "description": "（妥当性を）確認する、検証する"
+    },
+    {
+        "name": "verbose",
+        "a": "形容詞",
+        "description": "詳細な"
+    },
+    {
+        "name": "verify",
+        "a": "動詞",
+        "description": "（正しいことを）確認する、認証する"
+    },
+    {
+        "name": "virtual",
+        "a": "形容詞",
+        "description": "仮想の"
+    },
+    {
+        "name": "visibility",
+        "a": "名詞",
+        "description": "可視性、可視範囲"
+    },
+    {
+        "name": "visible",
+        "a": "形容詞",
+        "description": "表示できる"
+    },
+    {
+        "name": "whitespace",
+        "a": "名詞",
+        "description": "空白、スペース"
+    },
+    {
+        "name": "wrap",
+        "a": "動詞",
+        "description": "ラップする、（テキストを）折り返す"
+    },
+    {
+        "name": "wrapper",
+        "a": "名詞",
+        "description": "ラッパー"
+    },
+    {
+        "name": "zip",
+        "a": "動詞",
+        "description": "（ファイルを）圧縮する"
+    },
+    {
+        "name": "action",
+        "a": "名詞",
+        "description": "アクション、操作"
+    },
+    {
+        "name": "activity",
+        "a": "名詞",
+        "description": "アクティビティー、活動"
+    },
+    {
+        "name": "add",
+        "a": "動詞",
+        "description": "追加する"
+    },
+    {
+        "name": "address",
+        "a": "名詞",
+        "description": "アドレス、住所"
+    },
+    {
+        "name": "agree",
+        "a": "動詞",
+        "description": "同意する"
+    },
+    {
+        "name": "area",
+        "a": "名詞",
+        "description": "領域、エリア"
+    },
+    {
+        "name": "below",
+        "a": "副詞",
+        "description": "下記に"
+    },
+    {
+        "name": "body",
+        "a": "名詞",
+        "description": "本体、本文"
+    },
+    {
+        "name": "break",
+        "a": "動詞",
+        "description": "中断する"
+    },
+    {
+        "name": "build",
+        "a": "動詞／名詞",
+        "description": "構築する／ビルド"
+    },
+    {
+        "name": "button",
+        "a": "名詞",
+        "description": "ボタン"
+    },
+    {
+        "name": "call",
+        "a": "動詞",
+        "description": "呼び出す"
+    },
+    {
+        "name": "change",
+        "a": "動詞",
+        "description": "変更する"
+    },
+    {
+        "name": "check",
+        "a": "動詞",
+        "description": "確認する、チェックする"
+    },
+    {
+        "name": "child",
+        "a": "名詞",
+        "description": "子"
+    },
+    {
+        "name": "choose",
+        "a": "動詞",
+        "description": "選択する"
+    },
+    {
+        "name": "class",
+        "a": "名詞",
+        "description": "クラス"
+    },
+    {
+        "name": "clean",
+        "a": "形容詞／動詞",
+        "description": "きれいな／きれいにする"
+    },
+    {
+        "name": "close",
+        "a": "動詞",
+        "description": "閉じる"
+    },
+    {
+        "name": "compare",
+        "a": "動詞",
+        "description": "比較する"
+    },
+    {
+        "name": "complete",
+        "a": "動詞／形容詞",
+        "description": "完了する／完全な"
+    },
+    {
+        "name": "copy",
+        "a": "動詞／名詞",
+        "description": "コピーする／コピー"
+    },
+    {
+        "name": "correct",
+        "a": "形容詞／動詞",
+        "description": "正確な／訂正する"
+    },
+    {
+        "name": "create",
+        "a": "動詞",
+        "description": "作成する"
+    },
+    {
+        "name": "describe",
+        "a": "動詞",
+        "description": "説明する"
+    },
+    {
+        "name": "description",
+        "a": "名詞",
+        "description": "説明"
+    },
+    {
+        "name": "detail",
+        "a": "名詞",
+        "description": "詳細"
+    },
+    {
+        "name": "email",
+        "a": "名詞／動詞",
+        "description": "メール／メールを送る"
+    },
+    {
+        "name": "event",
+        "a": "名詞",
+        "description": "イベント、出来事"
+    },
+    {
+        "name": "example",
+        "a": "名詞",
+        "description": "例"
+    },
+    {
+        "name": "extra",
+        "a": "形容詞",
+        "description": "余分な、追加の"
+    },
+    {
+        "name": "false",
+        "a": "形容詞",
+        "description": "誤りの、偽の"
+    },
+    {
+        "name": "final",
+        "a": "形容詞",
+        "description": "最終の"
+    },
+    {
+        "name": "find",
+        "a": "動詞",
+        "description": "検索する"
+    },
+    {
+        "name": "finish",
+        "a": "動詞",
+        "description": "終了する、完了する"
+    },
+    {
+        "name": "follow",
+        "a": "動詞",
+        "description": "従う、フォローする"
+    },
+    {
+        "name": "form",
+        "a": "名詞",
+        "description": "フォーム"
+    },
+    {
+        "name": "free",
+        "a": "形容詞",
+        "description": "空きの、無料の"
+    },
+    {
+        "name": "get",
+        "a": "動詞",
+        "description": "獲得する"
+    },
+    {
+        "name": "group",
+        "a": "名詞",
+        "description": "グループ"
+    },
+    {
+        "name": "health",
+        "a": "名詞",
+        "description": "ヘルス、正常性"
+    },
+    {
+        "name": "improve",
+        "a": "動詞",
+        "description": "改良する"
+    },
+    {
+        "name": "include",
+        "a": "動詞",
+        "description": "含む、インクルードする"
+    },
+    {
+        "name": "information",
+        "a": "名詞",
+        "description": "情報"
+    },
+    {
+        "name": "introduce",
+        "a": "動詞",
+        "description": "導入する、紹介する"
+    },
+    {
+        "name": "join",
+        "a": "動詞",
+        "description": "結合する"
+    },
+    {
+        "name": "key",
+        "a": "名詞",
+        "description": "キー"
+    },
+    {
+        "name": "language",
+        "a": "名詞",
+        "description": "言語"
+    },
+    {
+        "name": "later",
+        "a": "副詞",
+        "description": "あとで"
+    },
+    {
+        "name": "line",
+        "a": "名詞",
+        "description": "行、線"
+    },
+    {
+        "name": "list",
+        "a": "名詞／動詞",
+        "description": "リスト／一覧表示する"
+    },
+    {
+        "name": " make",
+        "a": "動詞",
+        "description": "作成する"
+    },
+    {
+        "name": "match",
+        "a": "動詞",
+        "description": "一致する"
+    },
+    {
+        "name": "menu",
+        "a": "名詞",
+        "description": "メニュー"
+    },
+    {
+        "name": "message",
+        "a": "名詞",
+        "description": "メッセージ"
+    },
+    {
+        "name": "model",
+        "a": "名詞",
+        "description": "モデル、型"
+    },
+    {
+        "name": "move",
+        "a": "動詞",
+        "description": "移動する"
+    },
+    {
+        "name": "name",
+        "a": "名詞",
+        "description": "名前"
+    },
+    {
+        "name": "next",
+        "a": "形容詞",
+        "description": "次の"
+    },
+    {
+        "name": "number",
+        "a": "名詞",
+        "description": "数"
+    },
+    {
+        "name": "object",
+        "a": "名詞",
+        "description": "オブジェクト、物体、対象"
+    },
+    {
+        "name": "open",
+        "a": "動詞／形容詞",
+        "description": "開く／開いた"
+    },
+    {
+        "name": "parent",
+        "a": "名詞",
+        "description": "親"
+    },
+    {
+        "name": "password",
+        "a": "名詞",
+        "description": "パスワード"
+    },
+    {
+        "name": "play",
+        "a": "動詞",
+        "description": "再生する"
+    },
+    {
+        "name": "post",
+        "a": "動詞／名詞",
+        "description": "書き込む／投稿"
+    },
+    {
+        "name": "prepare",
+        "a": "動詞",
+        "description": "準備する"
+    },
+    {
+        "name": "problem",
+        "a": "名詞",
+        "description": "問題"
+    },
+    {
+        "name": "product",
+        "a": "名詞",
+        "description": "製品、プロダクト"
+    },
+    {
+        "name": "read",
+        "a": "動詞",
+        "description": "読み取る"
+    },
+    {
+        "name": "return",
+        "a": "動詞",
+        "description": "戻す、返す"
+    },
+    {
+        "name": "rule",
+        "a": "名詞",
+        "description": "ルール、規則"
+    },
+    {
+        "name": "run",
+        "a": "動詞",
+        "description": "実行する"
+    },
+    {
+        "name": "section",
+        "a": "名詞",
+        "description": "セクション、部分"
+    },
+    {
+        "name": "see",
+        "a": "動詞",
+        "description": "見る"
+    },
+    {
+        "name": "send",
+        "a": "動詞",
+        "description": "送信する"
+    },
+    {
+        "name": "service",
+        "a": "名詞",
+        "description": "サービス"
+    },
+    {
+        "name": "set",
+        "a": "動詞",
+        "description": "設定する"
+    },
+    {
+        "name": "show",
+        "a": "動詞",
+        "description": "表示する"
+    },
+    {
+        "name": "size",
+        "a": "名詞",
+        "description": "大きさ"
+    },
+    {
+        "name": "software",
+        "a": "名詞",
+        "description": "ソフトウェア"
+    },
+    {
+        "name": "space",
+        "a": "名詞",
+        "description": "スペース、空白"
+    },
+    {
+        "name": "start",
+        "a": "動詞",
+        "description": "開始する"
+    },
+    {
+        "name": "statement",
+        "a": "名詞",
+        "description": "ステートメント、文"
+    },
+    {
+        "name": "stop",
+        "a": "動詞",
+        "description": "停止する"
+    },
+    {
+        "name": "style",
+        "a": "名詞",
+        "description": "スタイル"
+    },
+    {
+        "name": "test",
+        "a": "名詞／動詞",
+        "description": "テスト／テストする"
+    },
+    {
+        "name": "traffic",
+        "a": "名詞",
+        "description": "トラフィック、通信量"
+    },
+    {
+        "name": "tree",
+        "a": "名詞",
+        "description": "木、ツリー"
+    },
+    {
+        "name": "true",
+        "a": "形容詞",
+        "description": "正しい、真の"
+    },
+    {
+        "name": "use",
+        "a": "動詞／名詞",
+        "description": "使う／使用"
+    },
+    {
+        "name": "useful",
+        "a": "形容詞",
+        "description": "便利な"
+    },
+    {
+        "name": "user",
+        "a": "名詞",
+        "description": "ユーザー"
+    },
+    {
+        "name": "visit",
+        "a": "動詞",
+        "description": "訪問する、アクセスする"
+    },
+    {
+        "name": "wait",
+        "a": "動詞",
+        "description": "待機する"
+    },
+    {
+        "name": "website",
+        "a": "名詞",
+        "description": "ウェブサイト"
+    },
+    {
+        "name": "window",
+        "a": "名詞",
+        "description": "ウィンドウ"
+    },
+    {
+        "name": "write",
+        "a": "動詞",
+        "description": "書き込む"
+    },
+    {
+        "name": "you",
+        "a": "代名詞",
+        "description": "あなた、ユーザー"
+    },
+    {
+        "name": "your",
+        "a": "代名詞",
+        "description": "あなたの、ユーザーの"
+    },
+    {
+        "name": "addr",
+        "description": "addressの略"
+    },
+    {
+        "name": "admin",
+        "description": "administratorの略"
+    },
+    {
+        "name": "app",
+        "description": "applicationの略"
+    },
+    {
+        "name": "arg",
+        "description": "argumentの略"
+    },
+    {
+        "name": "args",
+        "description": "argumentsの略"
+    },
+    {
+        "name": "async",
+        "description": "asynchronization（非同期）の略"
+    },
+    {
+        "name": "attr",
+        "description": "attributeの略"
+    },
+    {
+        "name": "attrs",
+        "description": "attributesの略"
+    },
+    {
+        "name": "auth",
+        "description": "authorization（権限付与）、authenticationの略"
+    },
+    {
+        "name": "cert",
+        "description": "certified（認定された）、certificateの略"
+    },
+    {
+        "name": "char",
+        "description": "characterの略"
+    },
+    {
+        "name": "cmd",
+        "description": "commandの略"
+    },
+    {
+        "name": "config",
+        "description": "configurationの略"
+    },
+    {
+        "name": "conn",
+        "description": "connectionの略"
+    },
+    {
+        "name": "ctrl",
+        "description": "Controlキーの略"
+    },
+    {
+        "name": "cur",
+        "description": "current、cursorの略"
+    },
+    {
+        "name": "db",
+        "description": "databaseの略"
+    },
+    {
+        "name": "deps",
+        "description": "dependenciesの略"
+    },
+    {
+        "name": "dest",
+        "description": "destinationの略"
+    },
+    {
+        "name": "dev",
+        "description": "developer、developmentの略"
+    },
+    {
+        "name": "dict",
+        "description": "dictionaryの略"
+    },
+    {
+        "name": "diff",
+        "description": "differenceの略"
+    },
+    {
+        "name": "dir",
+        "description": "directoryの略"
+    },
+    {
+        "name": "doc",
+        "description": "documentの略"
+    },
+    {
+        "name": "enum",
+        "description": "enumerationの略"
+    },
+    {
+        "name": "env",
+        "description": "environmentの略"
+    },
+    {
+        "name": "err",
+        "description": "errorの略"
+    },
+    {
+        "name": "exec",
+        "description": "executionの略"
+    },
+    {
+        "name": "fn",
+        "description": "functionの略"
+    },
+    {
+        "name": "gen",
+        "description": "generationの略"
+    },
+    {
+        "name": "id",
+        "description": "identification、identifierの略"
+    },
+    {
+        "name": "idx",
+        "description": "indexの略"
+    },
+    {
+        "name": "impl",
+        "description": "implementationの略"
+    },
+    {
+        "name": "info",
+        "description": "informationの略"
+    },
+    {
+        "name": "init",
+        "description": "initializationの略"
+    },
+    {
+        "name": "int",
+        "description": "integerの略"
+    },
+    {
+        "name": "lib",
+        "description": "libraryの略"
+    },
+    {
+        "name": "max",
+        "description": "maximumの略"
+    },
+    {
+        "name": "min",
+        "description": "minimum、minuteの略"
+    },
+    {
+        "name": "msg",
+        "description": "messageの略"
+    },
+    {
+        "name": "num",
+        "description": "numberの略"
+    },
+    {
+        "name": "obj",
+        "description": "objectの略"
+    },
+    {
+        "name": "op",
+        "description": "operationの略"
+    },
+    {
+        "name": "ops",
+        "description": "operationsの略"
+    },
+    {
+        "name": "opts",
+        "description": "optionsの略"
+    },
+    {
+        "name": "param",
+        "description": "parameterの略"
+    },
+    {
+        "name": "params",
+        "description": "parametersの略"
+    },
+    {
+        "name": "pos",
+        "description": "positionの略"
+    },
+    {
+        "name": "prev",
+        "description": "previousの略"
+    },
+    {
+        "name": "prop",
+        "description": "propertyの略"
+    },
+    {
+        "name": "props",
+        "description": "propertiesの略"
+    },
+    {
+        "name": "ref",
+        "description": "referenceの略"
+    },
+    {
+        "name": "refs",
+        "description": "referencesの略"
+    },
+    {
+        "name": "regex",
+        "description": "regular expressionの略"
+    },
+    {
+        "name": "repo",
+        "description": "repositoryの略"
+    },
+    {
+        "name": "req",
+        "description": "requestの略"
+    },
+    {
+        "name": "res",
+        "description": "responseの略"
+    },
+    {
+        "name": "resp",
+        "description": "responseの略"
+    },
+    {
+        "name": "ret",
+        "description": "returnの略"
+    },
+    {
+        "name": "spec",
+        "description": "specificationの略"
+    },
+    {
+        "name": "src",
+        "description": "sourceの略"
+    },
+    {
+        "name": "str",
+        "description": "stringの略"
+    },
+    {
+        "name": "sync",
+        "description": "synchronization（同期）の略"
+    },
+    {
+        "name": "temp",
+        "description": "temporaryの略"
+    },
+    {
+        "name": "tmp",
+        "description": "temporaryの略"
+    },
+    {
+        "name": "usr",
+        "description": "userの略"
+    },
+    {
+        "name": "utils",
+        "description": "utilities（ユーティリティー）の略"
+    },
+    {
+        "name": "val",
+        "description": "valueの略"
+    },
+    {
+        "name": "var",
+        "description": "variableの略"
+    },
+    {
+        "name": "vars",
+        "description": "variablesの略"
+    },
+    {
+        "name": "API",
+        "description": "Application Programming Interfaceのこと"
+    },
+    {
+        "name": "CI",
+        "description": "Continuous Integrationのこと"
+    },
+    {
+        "name": "CLI",
+        "description": "Command Line Interfaceのこと"
+    },
+    {
+        "name": "CPU",
+        "description": "Central Processing Unitのこと"
+    },
+    {
+        "name": "CSS",
+        "description": "Cascading Style Sheetのこと"
+    },
+    {
+        "name": "DNS",
+        "description": "Domain Name Systemのこと"
+    },
+    {
+        "name": "DOM",
+        "description": "Document Object Modelのこと"
+    },
+    {
+        "name": "HTML",
+        "description": "HyperText Markup Languageのこと"
+    },
+    {
+        "name": "HTTP",
+        "description": "HyperText Transfer Protocolのこと"
+    },
+    {
+        "name": "HTTPS",
+        "description": "HyperText Transfer Protocol Secureのこと"
+    },
+    {
+        "name": "IDE",
+        "description": "Integrated Development Environmentのこと"
+    },
+    {
+        "name": "IE",
+        "description": "Id Est（ラテン語で「つまり」）、Internet Explorerのこと"
+    },
+    {
+        "name": "IO",
+        "description": "Input/Outputのこと"
+    },
+    {
+        "name": "IP",
+        "description": "Internet Protocolのこと"
+    },
+    {
+        "name": "JSON",
+        "description": "JavaScript Object Notationのこと"
+    },
+    {
+        "name": "NFC",
+        "description": "Near Field Communicationのこと"
+    },
+    {
+        "name": "OS",
+        "description": "Operating Systemのこと"
+    },
+    {
+        "name": "RE",
+        "description": "Regular Expressionのこと"
+    },
+    {
+        "name": "RGB",
+        "description": "Red Green Blueのこと"
+    },
+    {
+        "name": "SDK",
+        "description": "Software Development Kitのこと"
+    },
+    {
+        "name": "SQL",
+        "description": "Structured Query Languageのこと"
+    },
+    {
+        "name": "SSH",
+        "description": "Secure SHellのこと"
+    },
+    {
+        "name": "SSL",
+        "description": "Secure Sockets Layerのこと"
+    },
+    {
+        "name": "UI",
+        "description": "User Interfaceのこと"
+    },
+    {
+        "name": "URI",
+        "description": "Uniform Resource Identifierのこと"
+    },
+    {
+        "name": "URL",
+        "description": "Uniform Resource Locatorのこと"
+    },
+    {
+        "name": "VM",
+        "description": "Virtual Machineのこと"
+    },
+    {
+        "name": "WIP",
+        "description": "Work In Progress（作業中）のこと"
+    },
+    {
+        "name": "WWW",
+        "description": "World Wide Webのこと"
+    },
+    {
+        "name": "XML",
+        "description": "eXtensible Markup Languageのこと"
+    },
+    {
+        "name": "abstract",
+        "lang": [
+            "C#",
+            "PHP",
+            "J"
+        ]
+    },
+    {
+        "name": "alias",
+        "lang": [
+            "Ruby"
+        ]
+    },
+    {
+        "name": "and",
+        "lang": [
+            "PHP",
+            "PythonRuby"
+        ]
+    },
+    {
+        "name": "array()",
+        "lang": [
+            "PHP"
+        ]
+    },
+    {
+        "name": "as",
+        "lang": [
+            "C#",
+            "PHP",
+            "Python"
+        ]
+    },
+    {
+        "name": "assert",
+        "lang": [
+            "Java",
+            "Python"
+        ]
+    },
+    {
+        "name": "async",
+        "lang": [
+            "Python"
+        ]
+    },
+    {
+        "name": "await",
+        "lang": [
+            "Python"
+        ]
+    },
+    {
+        "name": "base",
+        "lang": [
+            "C#"
+        ]
+    },
+    {
+        "name": "bool",
+        "lang": [
+            "C#",
+            "PHP"
+        ]
+    },
+    {
+        "name": "boolean",
+        "lang": [
+            "Java"
+        ]
+    },
+    {
+        "name": "break",
+        "lang": [
+            "C#",
+            "J",
+            "JavaScript",
+            "PHP",
+            "PythonRuby"
+        ]
+    },
+    {
+        "name": "byte",
+        "lang": [
+            "C#",
+            "J"
+        ]
+    },
+    {
+        "name": "callable",
+        "lang": [
+            "PHP"
+        ]
+    },
+    {
+        "name": "case",
+        "lang": [
+            "C#",
+            "J",
+            "JavaScript",
+            "PHPRuby"
+        ]
+    },
+    {
+        "name": "catch",
+        "lang": [
+            "C#",
+            "J",
+            "JavaScript",
+            "PHP"
+        ]
+    },
+    {
+        "name": "char",
+        "lang": [
+            "C#",
+            "J"
+        ]
+    },
+    {
+        "name": "checked",
+        "lang": [
+            "C#"
+        ]
+    },
+    {
+        "name": "class",
+        "lang": [
+            "C#",
+            "J",
+            "JavaScript",
+            "PHP",
+            "PythonRuby"
+        ]
+    },
+    {
+        "name": "clone",
+        "lang": [
+            "PHP"
+        ]
+    },
+    {
+        "name": "const",
+        "lang": [
+            "C#",
+            "J",
+            "PHP"
+        ]
+    },
+    {
+        "name": "continue",
+        "lang": [
+            "C#",
+            "J",
+            "JavaScript",
+            "PHP",
+            "Python"
+        ]
+    },
+    {
+        "name": "debugger",
+        "lang": [
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "decimal",
+        "lang": [
+            "C#"
+        ]
+    },
+    {
+        "name": "declare",
+        "lang": [
+            "PHP"
+        ]
+    },
+    {
+        "name": "def",
+        "lang": [
+            "PythonRuby"
+        ]
+    },
+    {
+        "name": "default",
+        "lang": [
+            "C#",
+            "J",
+            "JavaScript",
+            "PHP"
+        ]
+    },
+    {
+        "name": "defined?",
+        "lang": [
+            "Ruby"
+        ]
+    },
+    {
+        "name": "del",
+        "lang": [
+            "Python"
+        ]
+    },
+    {
+        "name": "delegate",
+        "lang": [
+            "C#"
+        ]
+    },
+    {
+        "name": "delete",
+        "lang": [
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "die()",
+        "lang": [
+            "PHP"
+        ]
+    },
+    {
+        "name": "do",
+        "lang": [
+            "C#",
+            "J",
+            "JavaScript",
+            "PHPRuby"
+        ]
+    },
+    {
+        "name": "double",
+        "lang": [
+            "C#",
+            "J"
+        ]
+    },
+    {
+        "name": "echo",
+        "lang": [
+            "PHP"
+        ]
+    },
+    {
+        "name": "elif",
+        "lang": [
+            "Python"
+        ]
+    },
+    {
+        "name": "else",
+        "lang": [
+            "C#",
+            "J",
+            "JavaScript",
+            "PHP",
+            "PythonRuby"
+        ]
+    },
+    {
+        "name": "elseif",
+        "lang": [
+            "PHP"
+        ]
+    },
+    {
+        "name": "elsif",
+        "lang": [
+            "Ruby"
+        ]
+    },
+    {
+        "name": "empty()",
+        "lang": [
+            "PHP"
+        ]
+    },
+    {
+        "name": "enddeclare",
+        "lang": [
+            "PHP"
+        ]
+    },
+    {
+        "name": "endfor",
+        "lang": [
+            "PHP"
+        ]
+    },
+    {
+        "name": "endforeach",
+        "lang": [
+            "PHP"
+        ]
+    },
+    {
+        "name": "endif",
+        "lang": [
+            "PHP"
+        ]
+    },
+    {
+        "name": "endswitch",
+        "lang": [
+            "PHP"
+        ]
+    },
+    {
+        "name": "endwhile",
+        "lang": [
+            "PHP"
+        ]
+    },
+    {
+        "name": "ensure",
+        "lang": [
+            "Ruby"
+        ]
+    },
+    {
+        "name": "enum",
+        "lang": [
+            "C#",
+            "J",
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "eval()",
+        "lang": [
+            "PHP"
+        ]
+    },
+    {
+        "name": "event",
+        "lang": [
+            "C#"
+        ]
+    },
+    {
+        "name": "except",
+        "lang": [
+            "Python"
+        ]
+    },
+    {
+        "name": "exit()",
+        "lang": [
+            "PHP"
+        ]
+    },
+    {
+        "name": "explicit",
+        "lang": [
+            "C#"
+        ]
+    },
+    {
+        "name": "export",
+        "lang": [
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "extends",
+        "lang": [
+            "Java",
+            "JavaScript",
+            "PHP"
+        ]
+    },
+    {
+        "name": "extern",
+        "lang": [
+            "C#"
+        ]
+    },
+    {
+        "name": "false",
+        "lang": [
+            "C#",
+            "JavaScript",
+            "PHPRuby"
+        ]
+    },
+    {
+        "name": "final",
+        "lang": [
+            "Java",
+            "PHP"
+        ]
+    },
+    {
+        "name": "finally",
+        "lang": [
+            "C#",
+            "J",
+            "JavaScript",
+            "PHP",
+            "Python"
+        ]
+    },
+    {
+        "name": "fixed",
+        "lang": [
+            "C#"
+        ]
+    },
+    {
+        "name": "float",
+        "lang": [
+            "C#",
+            "J",
+            "PHP"
+        ]
+    },
+    {
+        "name": "for",
+        "lang": [
+            "C#",
+            "J",
+            "JavaScript",
+            "PHP",
+            "PythonRuby"
+        ]
+    },
+    {
+        "name": "foreach",
+        "lang": [
+            "C#",
+            "PHP"
+        ]
+    },
+    {
+        "name": "from",
+        "lang": [
+            "Python"
+        ]
+    },
+    {
+        "name": "function",
+        "lang": [
+            "JavaScript",
+            "PHP"
+        ]
+    },
+    {
+        "name": "global",
+        "lang": [
+            "PHP",
+            "Python"
+        ]
+    },
+    {
+        "name": "goto",
+        "lang": [
+            "C#",
+            "J",
+            "PHP"
+        ]
+    },
+    {
+        "name": "if",
+        "lang": [
+            "C#",
+            "J",
+            "JavaScript",
+            "PHP",
+            "PythonRuby"
+        ]
+    },
+    {
+        "name": "implements",
+        "lang": [
+            "Java",
+            "JavaScript",
+            "PHP"
+        ]
+    },
+    {
+        "name": "implicit",
+        "lang": [
+            "C#"
+        ]
+    },
+    {
+        "name": "import",
+        "lang": [
+            "Java",
+            "JavaScript",
+            "Python"
+        ]
+    },
+    {
+        "name": "in",
+        "lang": [
+            "#C",
+            "JavaScript",
+            "PythonRuby"
+        ]
+    },
+    {
+        "name": "include",
+        "lang": [
+            "PHP"
+        ]
+    },
+    {
+        "name": "include_once",
+        "lang": [
+            "PHP"
+        ]
+    },
+    {
+        "name": "instanceof",
+        "lang": [
+            "Java",
+            "JavaScript",
+            "PHP"
+        ]
+    },
+    {
+        "name": "insteadof",
+        "lang": [
+            "PHP"
+        ]
+    },
+    {
+        "name": "int",
+        "lang": [
+            "C#",
+            "J",
+            "PHP"
+        ]
+    },
+    {
+        "name": "interface",
+        "lang": [
+            "C#",
+            "J",
+            "JavaScript",
+            "PHP"
+        ]
+    },
+    {
+        "name": "internal",
+        "lang": [
+            "C#"
+        ]
+    },
+    {
+        "name": "is",
+        "lang": [
+            "C#",
+            "Python"
+        ]
+    },
+    {
+        "name": "isset()",
+        "lang": [
+            "PHP"
+        ]
+    },
+    {
+        "name": "iterable",
+        "lang": [
+            "PHP"
+        ]
+    },
+    {
+        "name": "lambda",
+        "lang": [
+            "Python"
+        ]
+    },
+    {
+        "name": "let",
+        "lang": [
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "list()",
+        "lang": [
+            "PHP"
+        ]
+    },
+    {
+        "name": "lock",
+        "lang": [
+            "C#"
+        ]
+    },
+    {
+        "name": "long",
+        "lang": [
+            "C#",
+            "J"
+        ]
+    },
+    {
+        "name": "module",
+        "lang": [
+            "Ruby"
+        ]
+    },
+    {
+        "name": "namespace",
+        "lang": [
+            "C#",
+            "PHP"
+        ]
+    },
+    {
+        "name": "native",
+        "lang": [
+            "Java"
+        ]
+    },
+    {
+        "name": "new",
+        "lang": [
+            "C#",
+            "J",
+            "JavaScript",
+            "PHPP"
+        ]
+    },
+    {
+        "name": "next",
+        "lang": [
+            "Ruby"
+        ]
+    },
+    {
+        "name": "nil",
+        "lang": [
+            "Ruby"
+        ]
+    },
+    {
+        "name": "None",
+        "lang": [
+            "Python"
+        ]
+    },
+    {
+        "name": "nonlocal",
+        "lang": [
+            "Python"
+        ]
+    },
+    {
+        "name": "not",
+        "lang": [
+            "PythonRuby"
+        ]
+    },
+    {
+        "name": "null",
+        "lang": [
+            "C#",
+            "JavaScript",
+            "PHP"
+        ]
+    },
+    {
+        "name": "operator",
+        "lang": [
+            "C#"
+        ]
+    },
+    {
+        "name": "or",
+        "lang": [
+            "PHP",
+            "PythonRuby"
+        ]
+    },
+    {
+        "name": "out",
+        "lang": [
+            "C#"
+        ]
+    },
+    {
+        "name": "override",
+        "lang": [
+            "C#"
+        ]
+    },
+    {
+        "name": "params",
+        "lang": [
+            "C#"
+        ]
+    },
+    {
+        "name": "pass",
+        "lang": [
+            "Python"
+        ]
+    },
+    {
+        "name": "print",
+        "lang": [
+            "PHP"
+        ]
+    },
+    {
+        "name": "private",
+        "lang": [
+            "C#",
+            "J",
+            "JavaScript",
+            "PHP"
+        ]
+    },
+    {
+        "name": "protected",
+        "lang": [
+            "C#",
+            "J",
+            "JavaScript",
+            "PHP"
+        ]
+    },
+    {
+        "name": "public",
+        "lang": [
+            "C#",
+            "J",
+            "JavaScript",
+            "PHP"
+        ]
+    },
+    {
+        "name": "raise",
+        "lang": [
+            "Python"
+        ]
+    },
+    {
+        "name": "readonly",
+        "lang": [
+            "C#"
+        ]
+    },
+    {
+        "name": "redo",
+        "lang": [
+            "Ruby"
+        ]
+    },
+    {
+        "name": "ref",
+        "lang": [
+            "C#"
+        ]
+    },
+    {
+        "name": "require",
+        "lang": [
+            "PHP"
+        ]
+    },
+    {
+        "name": "require_once",
+        "lang": [
+            "PHP"
+        ]
+    },
+    {
+        "name": "rescue",
+        "lang": [
+            "Ruby"
+        ]
+    },
+    {
+        "name": "retry",
+        "lang": [
+            "Ruby"
+        ]
+    },
+    {
+        "name": "return",
+        "lang": [
+            "C#",
+            "J",
+            "JavaScript",
+            "PHP",
+            "PythonRuby"
+        ]
+    },
+    {
+        "name": "sbyte",
+        "lang": [
+            "C#"
+        ]
+    },
+    {
+        "name": "sealed",
+        "lang": [
+            "C#"
+        ]
+    },
+    {
+        "name": "self",
+        "lang": [
+            "Ruby"
+        ]
+    },
+    {
+        "name": "short",
+        "lang": [
+            "C#",
+            "J"
+        ]
+    },
+    {
+        "name": "sizeof",
+        "lang": [
+            "C#"
+        ]
+    },
+    {
+        "name": "stackalloc",
+        "lang": [
+            "C#"
+        ]
+    },
+    {
+        "name": "static",
+        "lang": [
+            "C#",
+            "J",
+            "JavaScript",
+            "PHP"
+        ]
+    },
+    {
+        "name": "strictfp",
+        "lang": [
+            "Java"
+        ]
+    },
+    {
+        "name": "string",
+        "lang": [
+            "C#",
+            "PHP"
+        ]
+    },
+    {
+        "name": "struct",
+        "lang": [
+            "C#"
+        ]
+    },
+    {
+        "name": "super",
+        "lang": [
+            "Java",
+            "JavaScriptRuby"
+        ]
+    },
+    {
+        "name": "switch",
+        "lang": [
+            "C#",
+            "J",
+            "JavaScript",
+            "PHP"
+        ]
+    },
+    {
+        "name": "synchronized",
+        "lang": [
+            "Java"
+        ]
+    },
+    {
+        "name": "then",
+        "lang": [
+            "Ruby"
+        ]
+    },
+    {
+        "name": "this",
+        "lang": [
+            "C#",
+            "J",
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "throw",
+        "lang": [
+            "C#",
+            "J",
+            "JavaScript",
+            "PHP"
+        ]
+    },
+    {
+        "name": "throws",
+        "lang": [
+            "Java"
+        ]
+    },
+    {
+        "name": "trait",
+        "lang": [
+            "PHP"
+        ]
+    },
+    {
+        "name": "transient",
+        "lang": [
+            "Java"
+        ]
+    },
+    {
+        "name": "true",
+        "lang": [
+            "C#",
+            "JavaScript",
+            "PHPRuby"
+        ]
+    },
+    {
+        "name": "try",
+        "lang": [
+            "C#",
+            "J",
+            "JavaScript",
+            "PHP",
+            "Python"
+        ]
+    },
+    {
+        "name": "typeof",
+        "lang": [
+            "C#",
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "uint",
+        "lang": [
+            "C#"
+        ]
+    },
+    {
+        "name": "ulong",
+        "lang": [
+            "C#"
+        ]
+    },
+    {
+        "name": "unchecked",
+        "lang": [
+            "C#"
+        ]
+    },
+    {
+        "name": "undef",
+        "lang": [
+            "Ruby"
+        ]
+    },
+    {
+        "name": "unless",
+        "lang": [
+            "Ruby"
+        ]
+    },
+    {
+        "name": "unsafe",
+        "lang": [
+            "C#"
+        ]
+    },
+    {
+        "name": "unset()",
+        "lang": [
+            "PHP"
+        ]
+    },
+    {
+        "name": "until",
+        "lang": [
+            "Ruby"
+        ]
+    },
+    {
+        "name": "use",
+        "lang": [
+            "PHP"
+        ]
+    },
+    {
+        "name": "ushort",
+        "lang": [
+            "C#"
+        ]
+    },
+    {
+        "name": "using",
+        "lang": [
+            "C#"
+        ]
+    },
+    {
+        "name": "using static",
+        "lang": [
+            "C#"
+        ]
+    },
+    {
+        "name": "var",
+        "lang": [
+            "JavaScript",
+            "PHP"
+        ]
+    },
+    {
+        "name": "virtual",
+        "lang": [
+            "C#"
+        ]
+    },
+    {
+        "name": "void",
+        "lang": [
+            "C#",
+            "J",
+            "JavaScript",
+            "PHP"
+        ]
+    },
+    {
+        "name": "volatile",
+        "lang": [
+            "C#",
+            "J"
+        ]
+    },
+    {
+        "name": "when",
+        "lang": [
+            "Ruby"
+        ]
+    },
+    {
+        "name": "while",
+        "lang": [
+            "C#",
+            "J",
+            "JavaScript",
+            "PHP",
+            "PythonRuby"
+        ]
+    },
+    {
+        "name": "with",
+        "lang": [
+            "JavaScript",
+            "Python"
+        ]
+    },
+    {
+        "name": "xor",
+        "lang": [
+            "PHP"
+        ]
+    },
+    {
+        "name": "yield",
+        "lang": [
+            "JavaScript",
+            "PHP",
+            "PythonRuby"
+        ]
+    },
+    {
+        "name": "yield from",
+        "lang": [
+            "PHP"
+        ]
+    }
+]
